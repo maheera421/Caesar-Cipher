@@ -1,7 +1,7 @@
 # Caesar-Cipher
 
 
-# 🎮 Game Description - Caesar Cipher:
+# 🎮 Game Description:
 
 The Caesar Cipher is a simple and classic encryption technique. In this game, you can either encode a message (encrypt it) or decode an already encoded message (decrypt it). The cipher involves shifting each letter in the plaintext by a fixed number of positions down or up the alphabet, resulting in a secret message. It's a fun and educational way to explore the world of cryptography!
 
