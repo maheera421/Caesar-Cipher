@@ -27,7 +27,7 @@ The Caesar Cipher is a simple and classic encryption technique. In this game, yo
 
 # 🔐 Code Specifications:
 
-• The code uses external modules `art` and `sheet`, respectively. These files are not provided and are mentioned as private. Users must request access to them separately.
+• The code uses external modules `art` and `sheet`, respectively.
 
 • The user can choose to encode or decode messages using a Caesar Cipher with a specified shift value.
 
@@ -37,7 +37,3 @@ The Caesar Cipher is a simple and classic encryption technique. In this game, yo
  
 • It offers the option to restart the program to process multiple messages.
 
-
-# 📝 Note:
-
-Please note that the `art` and `sheet` files used in this code are kept private and are not included in the code posted on GitHub. Users who wish to run this code will need to request access to these files separately.
